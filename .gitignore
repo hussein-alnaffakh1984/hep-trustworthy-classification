@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.keras
+*.npy
+*.pdf
+.DS_Store
+/data/
