@@ -1,5 +1,7 @@
 # HEp-2 trustworthy classification — code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24208822.svg)](https://doi.org/10.5281/zenodo.24208822)
+
 Training and analysis scripts for a compact convolutional classifier of HEp-2
 immunofluorescence cell images, together with the reliability components used in the
 accompanying study: temperature scaling, split-conformal prediction, selective
