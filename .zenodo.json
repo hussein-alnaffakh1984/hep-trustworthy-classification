@@ -1,0 +1,35 @@
+{
+  "title": "HEp-2 trustworthy classification (code)",
+  "upload_type": "software",
+  "access_right": "open",
+  "description": "<p>Source code and reproducibility materials accompanying the article: A Calibrated and Conformal Deep Learning Framework for Trustworthy Antinuclear Antibody Pattern Recognition With Selective Referral to Experts. <em>Karbala International Journal of Modern Science</em>, 2026. https://doi.org/10.33640/2405-609X.3481</p><p>If you use this software, please cite the article.</p>",
+  "creators": [
+    {
+      "name": "Al-Naffakh, Hussein Ali Hussein",
+      "affiliation": "University of Alkafeel, Najaf, Iraq",
+      "orcid": "0000-0002-4775-8818"
+    },
+    {
+      "name": "Radhi, Ahmed Dheyaa"
+    },
+    {
+      "name": "Hameed, Raghdah Maytham"
+    },
+    {
+      "name": "Reishaan, Muntaha Abdullah"
+    },
+    {
+      "name": "Majeed, Fouad A."
+    },
+    {
+      "name": "Ghazali, Rozaida"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.33640/2405-609X.3481",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    }
+  ]
+}
