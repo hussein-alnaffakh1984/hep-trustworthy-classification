@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the published paper below."
+title: "HEp-2 trustworthy classification (code)"
+type: software
+authors:
+  - family-names: "Al-Naffakh"
+    given-names: "Hussein Ali Hussein"
+    orcid: "https://orcid.org/0000-0002-4775-8818"
+  - family-names: "Radhi"
+    given-names: "Ahmed Dheyaa"
+  - family-names: "Hameed"
+    given-names: "Raghdah Maytham"
+  - family-names: "Reishaan"
+    given-names: "Muntaha Abdullah"
+  - family-names: "Majeed"
+    given-names: "Fouad A."
+  - family-names: "Ghazali"
+    given-names: "Rozaida"
+repository-code: "https://github.com/hussein-alnaffakh1984/hep-trustworthy-classification"
+preferred-citation:
+  type: article
+  title: "A Calibrated and Conformal Deep Learning Framework for Trustworthy Antinuclear Antibody Pattern Recognition With Selective Referral to Experts"
+  authors:
+    - family-names: "Al-Naffakh"
+      given-names: "Hussein Ali Hussein"
+      orcid: "https://orcid.org/0000-0002-4775-8818"
+    - family-names: "Radhi"
+      given-names: "Ahmed Dheyaa"
+    - family-names: "Hameed"
+      given-names: "Raghdah Maytham"
+    - family-names: "Reishaan"
+      given-names: "Muntaha Abdullah"
+    - family-names: "Majeed"
+      given-names: "Fouad A."
+    - family-names: "Ghazali"
+      given-names: "Rozaida"
+  journal: "Karbala International Journal of Modern Science"
+  year: 2026
+  volume: 12
+  issue: 3
+  start: 504
+  end: 522
+  doi: "10.33640/2405-609X.3481"
