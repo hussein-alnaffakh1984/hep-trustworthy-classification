@@ -41,6 +41,25 @@ other scripts.
 All scripts fix `seed = 42`. Minor variation at the fourth decimal is expected across
 hardware and driver versions.
 
+## Citation
+
+If you use this code or its results, please cite the published paper:
+
+> Al-Naffakh, H.A.H., Radhi, A.D., Hameed, R.M., Reishaan, M.A., Majeed, F.A., & Ghazali, R. (2026). A Calibrated and Conformal Deep Learning Framework for Trustworthy Antinuclear Antibody Pattern Recognition With Selective Referral to Experts. *Karbala International Journal of Modern Science*, 12(3), 504–522. https://doi.org/10.33640/2405-609X.3481
+
+```bibtex
+@article{AlNaffakh2026ANA,
+  title   = {A Calibrated and Conformal Deep Learning Framework for Trustworthy Antinuclear Antibody Pattern Recognition With Selective Referral to Experts},
+  author  = {Al-Naffakh, Hussein Ali Hussein and Radhi, Ahmed Dheyaa and Hameed, Raghdah Maytham and Reishaan, Muntaha Abdullah and Majeed, Fouad A. and Ghazali, Rozaida},
+  journal = {Karbala International Journal of Modern Science},
+  year    = {2026},
+  volume  = {12},
+  number  = {3},
+  pages   = {504--522},
+  doi     = {10.33640/2405-609X.3481}
+}
+```
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
